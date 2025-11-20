@@ -1,4 +1,9 @@
 {
   "name": "react_native_origin",
-  "displayName": "react_native_origin"
+  "displayName": "react_native_origin",
+  "expo":{
+    "web":{
+      "bundler": "metro"
+    }
+  }
 }
